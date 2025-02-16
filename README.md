@@ -1,2 +1,11 @@
 # kubernetes-design-patterns
-Kubernetes Design Patterns
+
+쿠버네티스 디자인패턴
+
+# 계획
+
+- 디자인패턴의 대분류 / 중분류 / 소분류로 디렉터리 구성
+  - 각 소분류 디렉터리에는 md 파일을 통해 개념 설명
+- vagrant를 통해 로컬에서 실행할 수 있도록 구현
+  - 쿠버네티스 구성 파일까지 포함
+- 간단한 nestjs 서버를 두고 swagger를 통해 테스트까지 수행할 수 있도록 함
